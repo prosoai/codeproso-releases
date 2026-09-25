@@ -2,7 +2,7 @@
 
 CodeProso is a desktop AI coding assistant, powered by the [Proso.ai](https://askproso.ai) platform. It sits directly on top of your local project folder, so it can read your files, propose edits, run commands, and chat with you about your codebase — all from a native app on your machine.
 
-![CodeProso desktop app](image1.webp)
+![CodeProso desktop app](images/image1.webp)
 
 ## Download
 
@@ -36,7 +36,7 @@ https://appback.askproso.ai
 
 This is the endpoint CodeProso talks to for chat, models, and your account data.
 
-![Settings → General, with the WorkWall Backend URL field](image2.png)
+![Settings → General, with the WorkWall Backend URL field](images/image2.png)
 
 ### 3. Choose your models
 
@@ -45,7 +45,7 @@ Head to **Settings → Models** to control which models show up in the model pic
 - Click the **eye icon** next to a model to show or hide it from the picker — a good way to trim the list down to the models you actually use.
 - Click the **star icon** to mark a model as a favorite / default, so it's front-and-center every time you start a new chat.
 
-![Settings → Models, with visibility and favorite toggles](image3.png)
+![Settings → Models, with visibility and favorite toggles](images/image3.png)
 
 ### 4. Start chatting
 
