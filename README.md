@@ -1,6 +1,6 @@
 # CodeProso
 
-CodeProso is a desktop AI coding assistant, powered by the [Proso.ai](https://askproso.ai) platform. It sits directly on top of your local project folder, so it can read your files, propose edits, run commands, and chat with you about your codebase — all from a native app on your machine.
+[Codeproso](https://code.askproso.ai) is a desktop AI coding assistant, powered by the [Proso.ai](https://askproso.ai) platform. It sits directly on top of your local project folder, so it can read your files, propose edits, run commands, and chat with you about your codebase — all from a native app on your machine.
 
 ![CodeProso desktop app](images/image1.webp)
 
